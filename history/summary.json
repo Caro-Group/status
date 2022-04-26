@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/feeby.pl",
     "slug": "feeby-pl",
     "status": "down",
-    "uptime": "14.55%",
-    "uptimeDay": "14.55%",
-    "uptimeWeek": "14.55%",
-    "uptimeMonth": "14.55%",
-    "uptimeYear": "14.55%",
-    "time": 251,
-    "timeDay": 251,
-    "timeWeek": 251,
-    "timeMonth": 251,
-    "timeYear": 251,
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
+    "time": 168,
+    "timeDay": 168,
+    "timeWeek": 168,
+    "timeMonth": 168,
+    "timeYear": 168,
     "dailyMinutesDown": {
-      "2022-04-26": 0
+      "2022-04-26": 25
     }
   }
 ]

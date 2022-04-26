@@ -5,16 +5,18 @@ repo: "status" # The name of this repository
 sites:
   - name: Feeby.pl
     url: https://feeby.pl
+    maxResponseTime: 5000
+    __dangerous__insecure: true
+
 
 status-website:
+  name: Status
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.feeby.pl
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status
-  introTitle: "**Feeby.pl** - status of system"
-  introMessage: Status page which uses **real-time** data from our [GitHub repository](https://github.com/Caro-Group/status).
+  introTitle: ""
+  introMessage: ""
   navbar:
     - title: Status
       href: /

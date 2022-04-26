@@ -8,7 +8,6 @@ sites:
     maxResponseTime: 5000
     __dangerous__insecure: true
 
-
 status-website:
   name: Status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
@@ -22,8 +21,10 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  css: "body article.down {border-left: 1px solid var( --card-border-color)!important;}"
-
+  metaTags:
+    - name: "robots"
+      content: "noindex"
+      
 i18n:
   activeIncidents: Active Incidents
   allSystemsOperational: All systems are operational

@@ -12,8 +12,8 @@ status-website:
   cname: status.feeby.pl
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  name: Status
+  introTitle: "**Feeby.pl** - status of system"
   introMessage: Status page which uses **real-time** data from our [GitHub repository](https://github.com/Caro-Group/status).
   navbar:
     - title: Status
@@ -21,5 +21,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+i18n:
+  footer: ""
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

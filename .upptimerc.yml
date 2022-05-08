@@ -5,7 +5,7 @@ repo: "status" # The name of this repository
 sites:
   - name: Feeby.pl
     url: https://feeby.pl
-    maxResponseTime: 5000
+    maxResponseTime: 6000
     __dangerous__insecure: true
 
 status-website:

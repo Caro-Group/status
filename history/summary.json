@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/feeby.pl.ico",
     "slug": "feeby-pl",
     "status": "up",
-    "uptime": "86.44%",
+    "uptime": "86.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.47%",
-    "time": 331,
-    "timeDay": 621,
-    "timeWeek": 650,
-    "timeMonth": 722,
-    "timeYear": 380,
+    "uptimeYear": "91.75%",
+    "time": 332,
+    "timeDay": 685,
+    "timeWeek": 663,
+    "timeMonth": 725,
+    "timeYear": 381,
     "dailyMinutesDown": {
       "2024-01-10": 38,
       "2023-04-03": 665,
@@ -46,8 +46,7 @@
       "2023-03-08": 1440,
       "2023-03-07": 168,
       "2023-03-06": 781,
-      "2023-03-05": 1440,
-      "2023-03-04": 1440
+      "2023-03-05": 1440
     }
   }
 ]

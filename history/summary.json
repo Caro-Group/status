@@ -4,18 +4,19 @@
     "url": "https://feeby.pl",
     "icon": "https://icons.duckduckgo.com/ip3/feeby.pl.ico",
     "slug": "feeby-pl",
-    "status": "up",
-    "uptime": "88.34%",
+    "status": "down",
+    "uptime": "88.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.98%",
-    "time": 608,
+    "time": 609,
     "timeDay": 1447,
     "timeWeek": 2173,
     "timeMonth": 2432,
     "timeYear": 750,
     "dailyMinutesDown": {
+      "2024-06-20": 0,
       "2024-06-04": 65,
       "2024-01-10": 38
     }
